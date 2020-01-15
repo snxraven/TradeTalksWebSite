@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "WebsiteProd",
+      "script": "serve -s build -p 6632",
+      "args": ""
+
+    }
+  ]
+}
